@@ -26,4 +26,6 @@
 
 14- git - push - sends the last commited snapshot to the remote repo/github in our case - git push origin branchname
 
+15- git - pull - fetches and merges any commits from the remote repo - git pull
+
 
