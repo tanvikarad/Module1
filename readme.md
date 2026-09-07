@@ -10,4 +10,4 @@
 
 6- linux - chmod - used to change file permissions - chmod 745 name
 
-
+7- linux - cron - used to set up events that run at specific times that you specify it to - cron -f  
