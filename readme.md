@@ -14,6 +14,8 @@
 
 8- linux - sudo - used to run commands with admin privileges, aka SUPERHUMAN DO, important for commands such as rm - sudo command
 
-9 - git - checkout - used to create and switch to another branch in the working directory - git checkout -b name
+9 - git - checkout - used to switch to another branch in the working directory - git checkout name
 
-   
+10 - git - init - used to initialize a github repo into git repo, connects using ssh keys - git init
+
+
