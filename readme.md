@@ -24,4 +24,6 @@
 
 13- git - commit - commits the files that were added as a snapshots - git commit -m "message"
 
+14- git - push - sends the last commited snapshot to the remote repo/github in our case - git push origin branchname
+
 
