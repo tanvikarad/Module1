@@ -22,4 +22,6 @@
 
 12- git - add - adds the listed file/s or all files as it looks at the moments to the commit - git add name or git add .
 
+13- git - commit - commits the files that were added as a snapshots - git commit -m "message"
+
 
