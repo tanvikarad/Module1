@@ -8,4 +8,6 @@
 
 5- linux - rmdir - used to remove or delete empty repos - rmdir reponame
 
+6- linux - chmod - used to change file permissions - chmod 745 name
+
 
