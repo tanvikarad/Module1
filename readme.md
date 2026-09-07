@@ -28,4 +28,4 @@
 
 15- git - pull - fetches and merges any commits from the remote repo - git pull
 
-
+16- git - merge - merges a specific branch's history to the current branch - git merge branchname
