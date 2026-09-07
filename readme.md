@@ -20,4 +20,6 @@
 
 11- git - status - shows the current state of the repo, so shows the files that might have been modified, deleted, etc. - git status
 
+12- git - add - adds the listed file/s or all files as it looks at the moments to the commit - git add name or git add .
+
 
