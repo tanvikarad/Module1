@@ -6,4 +6,6 @@
 
 4- linux - cd - used to move between repos - cd .. to go back a repo, cd reponame/file path to go to said repo/file, cd ~ to go to home
 
+5- linux - rmdir - used to remove or delete empty repos - rmdir reponame
+
 
