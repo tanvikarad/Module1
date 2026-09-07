@@ -18,4 +18,6 @@
 
 10 - git - init - used to initialize a github repo into git repo, connects using ssh keys - git init
 
+11- git - status - shows the current state of the repo, so shows the files that might have been modified, deleted, etc. - git status
+
 
